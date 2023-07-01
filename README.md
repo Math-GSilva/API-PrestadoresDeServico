@@ -7,6 +7,10 @@
 ## Descrição
 Este projeto implementa uma API REST para gerenciamento de prestadores de serviço. A API permite realizar operações CRUD (Create, Read, Update, Delete) em relação a serviços, prestadores e categorias.
 
+Antes de executar o programa, é necessário garantir que o Node.js esteja instalado na máquina. Caso não esteja, é possível fazer o download e a instalação a partir do site oficial do Node.js.
+
+Além disso, para garantir o correto funcionamento da API, é necessário ter restaurado o arquivo contendo o backup do banco de dados que foi enviado para o professor.
+
 ## Pré-requisitos
 Antes de executar o programa, é necessário garantir que o Node.js esteja instalado na máquina. Caso não esteja, é possível fazer o download e a instalação a partir do site oficial do Node.js.
 
